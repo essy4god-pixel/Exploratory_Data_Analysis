@@ -25,7 +25,7 @@ My goal is to understand the data, find problems, and get ideas for what to anal
 - eda_analysis.xlxs – Descriptive Statistics
 - dataset.xlxs – Dataset used.
 
-  Eager for the Project 3.....
+  Eager for the Project 3......
   
 
 ## Tools Used
