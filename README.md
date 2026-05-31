@@ -29,4 +29,4 @@ My goal is to understand the data, find problems, and get ideas for what to anal
   
 
 ## Tools Used
-- Excel, Descriptive Statistics, Excel Formulas
+- Excel, Descriptive Statistics, Excel Formulas.
